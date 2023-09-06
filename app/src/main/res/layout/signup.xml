@@ -88,6 +88,9 @@
                 android:layout_height="wrap_content"
                 android:id="@+id/phone_text_field_design"
                 style="@style/ThemeOverlay.Material3.AutoCompleteTextView.OutlinedBox"
+                app:counterMaxLength="10"
+                app:counterEnabled="true"
+                app:errorEnabled="true"
                 android:hint="Phone Number">
 
                 <com.google.android.material.textfield.TextInputEditText
@@ -104,6 +107,8 @@
                 style="@style/ThemeOverlay.Material3.AutoCompleteTextView.OutlinedBox"
                 app:passwordToggleEnabled="true"
                 app:passwordToggleTint="@color/background"
+                app:counterMaxLength="16"
+                app:counterEnabled="true"
                 android:hint="Password">
 
                 <com.google.android.material.textfield.TextInputEditText
