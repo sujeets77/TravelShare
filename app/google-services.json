@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "881991410753",
+    "firebase_url": "https://sujsin-2e6d5-default-rtdb.firebaseio.com",
+    "project_id": "sujsin-2e6d5",
+    "storage_bucket": "sujsin-2e6d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881991410753:android:41f7f2580ad82fb895d2c0",
+        "android_client_info": {
+          "package_name": "com.example.monsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881991410753-07ioglq7jp6b5bj780hvvno5c7nao34u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMGK7YBP965aVPeG7vGtSYg4BL0Q1Y7mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881991410753-07ioglq7jp6b5bj780hvvno5c7nao34u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881991410753:android:926786258dbfed2795d2c0",
+        "android_client_info": {
+          "package_name": "com.example.travelshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881991410753-07ioglq7jp6b5bj780hvvno5c7nao34u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMGK7YBP965aVPeG7vGtSYg4BL0Q1Y7mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881991410753-07ioglq7jp6b5bj780hvvno5c7nao34u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
